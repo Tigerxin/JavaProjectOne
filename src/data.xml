@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+	<!-- 利用Dom4J去解析xml文档 -->
+	<goods>
+		<name>华为电视</name>
+		<price>134.5</price>
+		<categoryId>4</categoryId>
+	</goods>
+	<goods>
+		<name>长虹电视</name>
+		<price>14.5</price>
+		<categoryId>3</categoryId>
+	</goods>
+	<goods>
+		<name>华为手机</name>
+		<price>1345</price>
+		<categoryId>3</categoryId>
+	</goods>
+</product>
